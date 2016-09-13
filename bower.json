@@ -1,0 +1,42 @@
+{
+  "name": "front.js",
+  "version": "0.0.1",
+  "description": "(in development) JavaScript starter kit for simple projects.",
+  "main": "front.js",
+  "authors": [
+    "Damir Sultanov (http://fronteed.com)"
+  ],
+  "license": "MIT",
+  "keywords": [
+   "javascript",
+    "mobile",
+    "phone",
+    "tablet",
+    "desktop",
+    "browser",
+    "device",
+    "internet explorer",
+    "firefox",
+    "chrome",
+    "safari",
+    "yandex",
+    "opera",
+    "ios",
+    "android",
+    "blackberry",
+    "windows phone"
+  ],
+  "homepage": "http://front.fronteed.com/",
+  "moduleType": [
+    "globals",
+    "amd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fronteed/front.js.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "name": "front.js",
+  "version": "0.0.1",
+  "description": "(in development) JavaScript starter kit for simple projects.",
+  "keywords": [
+    "javascript",
+    "mobile",
+    "phone",
+    "tablet",
+    "desktop",
+    "browser",
+    "device",
+    "internet explorer",
+    "firefox",
+    "chrome",
+    "safari",
+    "yandex",
+    "opera",
+    "ios",
+    "android",
+    "blackberry",
+    "windows phone"
+  ],
+  "homepage": "http://front.fronteed.com/",
+  "bugs": {
+    "url": "https://github.com/fronteed/front.js/issues",
+    "email": "hello@fronteed.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fronteed/front.js.git"
+  },
+  "main": "front.js",
+  "author": "Damir Sultanov (http://fronteed.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "google-closure-compiler-js": "^20160828.0.1",
+    "gulp": "^npm in3.9.1",
+    "gulp-if": "^2.0.1",
+    "gulp-notify": "^2.2.0",
+    "require-globify": "^1.4.1",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "classlist.js": "github:stevenvachon/classList.js",
+    "domready": "^1.0.8",
+    "dorm.js": "0.0.1",
+    "element-closest": "^2.0.1",
+    "imagesloaded": "^4.1.1",
+    "whatwg-fetch": "^1.0.0"
+  }
+}
