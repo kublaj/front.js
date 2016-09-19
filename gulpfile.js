@@ -28,7 +28,7 @@ gulp.task('compile', function () {
   return browserify({
     entries: options.base + options.input,
     debug: true,
-    transform: [globify]
+    transform: ['require-globify']
   })
     .bundle()
     .on('error', function (error) {
